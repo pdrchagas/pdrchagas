@@ -1,42 +1,34 @@
-<h2 align="center">Less talk. More code.</h2>
-<h4 align="center">Estudante de Ciência da Computação
+# Olá, eu sou o Pedro Nascimento!
+**Estudante de Ciência da Computação 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pdrchagas" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pedro.c.n.f.nascimento@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pdrchagas)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.c.n.f.nascimento@gmail.com)
 
 ---
 
-### Sobre Mim
+###  Um pouco sobre mim
 
-* Cursando **Ciência da Computação** na **PUC-SP**.
-* Foco em arquitetura de sistemas, resolução de problemas, otimização de baixo nível e entrega de projetos do zero à produção.
-* São Paulo - Brasil.
+Atualmente cursando **Ciência da Computação** na **PUC-SP**, sou apaixonado por entender como as coisas funcionam por debaixo dos panos. Atuo no desenvolvimento **Full-Stack**, construindo desde a arquitetura robusta de banco de dados até a interface do usuário. 
 
-<br>
+Meu foco atual está na arquitetura de sistemas, resolução de problemas e otimização de baixo nível, sempre buscando entregar projetos consistentes do zero à produção.
 
-### Tecnologias e Ferramentas
-
-<div style="display: inline-block;">
-  <img align="center" alt="Assembly" src="https://img.shields.io/badge/Assembly-101010?style=for-the-badge&logo=assembly&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+ *São Paulo, SP - Brasil*
 
 <br>
 
-### Projetos em Destaque
+### 🛠️ Tecnologias que utilizo
 
-* **[Calculadora em Java](#):** Aplicação para cálculos matemáticos complexos, aplicando conceitos de POO e princípios SOLID para garantir escalabilidade e manutenção do código.
+**Linguagens de Programação:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-101010?style=flat-square&logo=assembly&logoColor=white)
+
+**Web & Ferramentas:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br>
+
+### 🚀 Meus Projetos
+*  **[Calculadora em Java](#):** Aplicação desenvolvida para cálculos matemáticos complexos. Construída aplicando conceitos de Programação Orientada a Objetos (POO) e princípios SOLID para garantir um código limpo, escalável e de fácil manutenção.
