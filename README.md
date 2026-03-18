@@ -8,7 +8,7 @@ Estudante de Ciência da Computação
 
 ###  Um pouco sobre mim
 
-Atualmente cursando **Ciência da Computação** na **PUC-SP**, sou apaixonado por entender como as coisas funcionam por debaixo dos panos. Atuo no desenvolvimento **Full-Stack**, construindo desde a arquitetura robusta de banco de dados até a interface do usuário. 
+Atualmente cursando **Ciência da Computação** na **PUC-SP**, sou apaixonado por entender como as coisas funcionam por debaixo dos panos. 
 
 Meu foco atual está na arquitetura de sistemas, resolução de problemas e otimização de baixo nível, sempre buscando entregar projetos consistentes do zero à produção.
 
