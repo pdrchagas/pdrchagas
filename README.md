@@ -1,8 +1,8 @@
 <h2 align="center">Less talk. More code.</h2>
-<h4 align="center">Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Inglês B2</h4>
+<h4 align="center">Estudante de Ciência da Computação
 
 <div align="center">
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/pdrchagas" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:pedro.c.n.f.nascimento@gmail.com" target="_blank">
@@ -17,7 +17,6 @@
 ### Sobre Mim
 
 * Cursando **Ciência da Computação** na **PUC-SP**.
-* Atuo com desenvolvimento **Full-Stack**, construindo desde a arquitetura do banco de dados até a interface do usuário.
 * Foco em arquitetura de sistemas, resolução de problemas, otimização de baixo nível e entrega de projetos do zero à produção.
 * São Paulo - Brasil.
 
@@ -39,4 +38,5 @@
 <br>
 
 ### Projetos em Destaque
+
 * **[Calculadora em Java](#):** Aplicação para cálculos matemáticos complexos, aplicando conceitos de POO e princípios SOLID para garantir escalabilidade e manutenção do código.
