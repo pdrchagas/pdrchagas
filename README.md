@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Nascimento!
 Estudante de Ciência da Computação 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pdrchagas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pdrchagas](https://www.linkedin.com/in/pedro-nascimento-602a77258/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.c.n.f.nascimento@gmail.com)
 
 ---
