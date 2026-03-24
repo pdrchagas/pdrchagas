@@ -16,7 +16,7 @@ Meu foco atual está na arquitetura de sistemas, resolução de problemas e otim
 
 <br>
 
-### 🛠️ Tecnologias que utilizo
+###  Tecnologias que utilizo
 
 **Linguagens de Programação:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -30,5 +30,5 @@ Meu foco atual está na arquitetura de sistemas, resolução de problemas e otim
 
 <br>
 
-### 🚀 Meus Projetos
+###  Meus Projetos
 *  **[Calculadora em Java](#):** Aplicação desenvolvida para cálculos matemáticos complexos. Construída aplicando conceitos de Programação Orientada a Objetos (POO) e princípios SOLID para garantir um código limpo, escalável e de fácil manutenção.
