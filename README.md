@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Nascimento!
 Estudante de Ciência da Computação 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pdrchagas](https://www.linkedin.com/in/pedro-nascimento-602a77258/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nascimento-602a77258/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.c.n.f.nascimento@gmail.com)
 
 ---
@@ -31,4 +31,4 @@ Meu foco atual está na arquitetura de sistemas, resolução de problemas e otim
 <br>
 
 ###  Meus Projetos
-*  **[Calculadora em Java](#):** Aplicação desenvolvida para cálculos matemáticos complexos. Construída aplicando conceitos de Programação Orientada a Objetos (POO) e princípios SOLID para garantir um código limpo, escalável e de fácil manutenção.
+* **[Calculadora em Java](#):** Aplicação desenvolvida para cálculos matemáticos complexos. Construída aplicando conceitos de Programação Orientada a Objetos (POO) e princípios SOLID para garantir um código limpo, escalável e de fácil manutenção.
