@@ -43,7 +43,7 @@
 | **[Student_Register](https://github.com/pdrchagas/Student_Register)** | Sistema de gestão de alunos em Java aplicando **POO**, GUI (Swing/JOptionPane) e arquitetura desacoplada por interfaces. | Java |
 | **[Hotel-Management-System-C](https://github.com/pdrchagas/Hotel-Management-System-C)** | Sistema de gestão hoteleira em terminal: reservas, check-in/check-out e mapa de ocupação de um hotel de 20 andares. | C |
 | **[Calculadora-Java](https://github.com/pdrchagas/Calculadora-Java)** | Calculadora científica de linha de comando: operações básicas, funções científicas e tratamento de erros matemáticos. | Java |
-| **[Desenhador2D](https://github.com/pdrchagas/Desenhador2D)** | Ferramenta de desenho 2D em Java. _(ajuste a descrição se precisar)_ | Java |
+| **[Desenhador2D](https://github.com/pdrchagas/Desenhador2D)** | Editor de desenho 2D em Java (Swing) com pontos, retas, círculos, retângulos e triângulos, retas rasterizadas pelo **algoritmo do ponto médio**, escolha de cor e espessura e filtro de redesenho a partir de uma estrutura de dados. | Java |
 | **[Mips-Algorithms-Lab](https://github.com/pdrchagas/Mips-Algorithms-Lab)** | Algoritmos fundamentais em Assembly MIPS: verificação de primos, MDC de Euclides e classificação de dados. | Assembly (MIPS) |
 | **[Mips-Bubblesort-Registers](https://github.com/pdrchagas/Mips-Bubblesort-Registers)** | Exercícios de Assembly MIPS com chamadas de procedimento e Bubble Sort baseado em registradores (MARS). | Assembly (MIPS) |
 | **[MIPS-Assembly-PUCSP](https://github.com/pdrchagas/MIPS-Assembly-PUCSP)** | Lógica, loops e operações aritméticas em Assembly MIPS. | Assembly (MIPS) |
